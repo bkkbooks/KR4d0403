@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4d0403_000.yaml, hash: 'sha256:f8d9a768b69c5c9f0226ecd445d6636af05220d4ff5be3284e18aaf5682fbe5d'}
   - {seq: 1, filename: KR4d0403_001.yaml, hash: 'sha256:b33283354ebe6045d4cb55ef523d9a765920aeddb3994294aba89434260ad78c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0403_000.markers.yaml, hash: 'sha256:b2d5bcd233e5c86c0e5c62291dbd2652a5a374295a5c343183f4398753d224dc'}
-  - {seq: 1, role: markers, filename: assets/KR4d0403_001.markers.yaml, hash: 'sha256:18de47db4bc15571f17733e6a5d499e8970f27ec9e7503194d01af755988de18'}
+  - {seq: 0, role: markers, filename: assets/KR4d0403_000.markers.yaml, hash: 'sha256:efc2ddd06b12547222d940e3e8609ce7fb1fb6d9d31fb0cb4d43cdf93f529fa6'}
+  - {seq: 1, role: markers, filename: assets/KR4d0403_001.markers.yaml, hash: 'sha256:5d7cfefaf7fa310b706f755ee027e8bbe726cc7685c791d396220e9e085bb0d7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 真山民集
   type: section
   level: 1
-hash: sha256:080197968e98481891c442344fb72d8258fc2a8bfe835a0a900971f4cfc370f3
+hash: sha256:c05802835c0cf1e72fe62a538fdea5054cf053bfaa63b88a52eb8cd474a18949
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
